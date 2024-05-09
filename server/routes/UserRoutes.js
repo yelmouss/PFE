@@ -15,8 +15,8 @@ module.exports = router;
 //  Voici comment la fonction router est utilisée et pourquoi elle est importante :
 
 // Modularité et Organisation : L'utilisation de router aide à séparer les différentes
-//  parties de l'application en modules plus petits et gérables, souvent appelés routeurs.
-//   Cela permet de maintenir une structure claire et organisée, facilitant ainsi le développement 
+// parties de l'application en modules plus petits et gérables, souvent appelés routeurs.
+// Cela permet de maintenir une structure claire et organisée, facilitant ainsi le développement 
 //   et la maintenance du code, surtout dans de grandes applications.
 // Définition de Routes : Avec router, vous pouvez définir des routes pour différentes
 //  méthodes HTTP (comme GET, POST, PUT, DELETE, etc.). Chaque route peut être associée à une fonction
